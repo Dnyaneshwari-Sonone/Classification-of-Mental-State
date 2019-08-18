@@ -1,2 +1,2 @@
 # Classification-of-Mental-State
-Classification of mental student of a student into confused or not confused.
+This is a machine learning model to classify the mental state of a student as confused or not confused, on the basis of feature vectors obtained from EEG signals of the brain.
